@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+button{
+    background-color: rgb(10, 97, 197);
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    border:none;
+    padding: 3px 5px;
+    cursor: pointer;
+}
